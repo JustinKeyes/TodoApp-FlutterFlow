@@ -203,7 +203,7 @@ class _TasksWidgetState extends State<TasksWidget> {
 
                         context.goNamedAuth('login', context.mounted);
                       },
-                      text: 'Loggout',
+                      text: 'Loggout!',
                       options: FFButtonOptions(
                         height: 40.0,
                         padding: const EdgeInsetsDirectional.fromSTEB(
