@@ -1,0 +1,21 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "properties": {
+      "users": {
+        "type": "array",
+        "items": [
+          {
+            "birthdate": "2024-12-02T05:00:00Z",
+            "created_time": "2024-12-03T05:55:32Z",
+            "display_name": "Justin",
+            "email": "justin_keyes@uri.edu",
+            "photo_url": "https://firebasestorage.googleapis.com/v0/b/todo-2v8djl.firebasestorage.app/o/users%2FGzyjsTfIWFRNHxzEougvXkpgKcr2%2Fuploads%2F1733205341204000.jpg?alt=media&token=d96b3cdc-7bb5-4818-b0fc-d4397004ad14",
+            "uid": "GzyjsTfIWFRNHxzEougvXkpgKcr2"
+          }
+        ]
+      }
+    },
+    "required": ["users"]
+  }
+  

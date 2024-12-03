@@ -1,0 +1,20 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "properties": {
+      "tasks": {
+        "type": "array",
+        "items": [
+          {
+            "completed": false,
+            "created": "2024-12-03T05:56:31Z",
+            "details": "iok",
+            "title": "get ice",
+            "user": "/users/GzyjsTfIWFRNHxzEougvXkpgKcr2"
+          }
+        ]
+      }
+    },
+    "required": ["tasks"]
+  }
+  
